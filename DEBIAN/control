@@ -1,0 +1,8 @@
+Package: uroot
+Version: 1.0.2
+Section: utils
+Priority: optional
+Architecture: arm64
+Maintainer: chenxuan
+Description: SUID root command wrapper with Deepin auth
+ Verifies current user via Deepin D-Bus before running commands as root.

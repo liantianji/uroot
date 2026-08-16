@@ -1,0 +1,18 @@
+# 压缩包
+*.zip
+*.tar.gz
+*.tar.bz2
+*.7z
+*.rar
+
+# 历史版本
+历史版本/
+
+# 构建产物
+build/
+*.deb
+*.o
+
+# 编译输出的二进制
+uroot
+deepin-auth
