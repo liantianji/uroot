@@ -57,7 +57,7 @@ sudo bash install.sh
 
 ```bash
 # 删除文件
-uroot rm -rf /home/test/k.jpg
+uroot rm -rf /home/uos/test.jpg
 
 # 安装软件包
 uroot apt install nginx
